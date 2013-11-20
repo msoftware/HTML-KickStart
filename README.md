@@ -14,7 +14,7 @@ Sorry, we haven't received (had) any results for you to start with so far.
 ## Open-Translation-Management is FREE and Open Source. ##
 ### Release Under the MIT Open Source License. ###
 
-Copyright © 2011-2012 Joshua Gatcke http://www.99lime.com | HTML KickStart
+Copyright © 2013 Michael Jentsch http://www.ostext.org/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
